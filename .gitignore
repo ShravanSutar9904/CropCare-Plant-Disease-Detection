@@ -1,0 +1,75 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# ==========================
+# Dataset (DO NOT upload)
+# ==========================
+training/PlantVillage/
+training/PlantVillage-Potato.rar
+
+# ==========================
+# Node.js
+# ==========================
+mobile-app/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==========================
+# Android
+# ==========================
+mobile-app/android/.gradle/
+mobile-app/android/build/
+mobile-app/android/app/build/
+
+# ==========================
+# iOS
+# ==========================
+mobile-app/ios/build/
+
+# ==========================
+# Build Files
+# ==========================
+build/
+dist/
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# IntelliJ
+# ==========================
+.idea/
+
+# ==========================
+# TensorFlow Saved Models
+# (Only if they are very large)
+# ==========================
+*.h5
+*.keras
+
+# ==========================
+# Videos
+# ==========================
+*.mp4
+screenshots/*.mp4
+demo/*.mp4
