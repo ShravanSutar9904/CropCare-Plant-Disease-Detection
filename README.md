@@ -93,10 +93,8 @@ Authors
 
 Shravan Sutar
 
+Yashwardhan Bhosale
+
 Final Year Computer Engineering Student
 
 Sinhgad Academy of Engineering, Pune
-
-License
-
-MIT License
