@@ -2,6 +2,9 @@
 
 CropCare is a deep learning-based mobile application that detects plant diseases from leaf images using a Convolutional Neural Network (CNN). The trained TensorFlow model is converted into TensorFlow Lite so predictions can run completely offline on Android devices.
 
+Also the final Apk for the app is Added in releases section with 
+V.1.0.0-Initial release----------------->Download the app and install it by giving necesary permisions
+
 Features
 
 * Detects diseases from crop leaf images
